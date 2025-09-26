@@ -1,0 +1,2 @@
+requests    # Library for making HTTP requests to fetch weather data from the API
+pandas      # Library for data cleaning, manipulation, and saving to CSV
