@@ -25,17 +25,19 @@ Load and save cleaned data into CSV for further analysis.
 
 ## Installation
 1. Clone the repository:
-```bash
+bash
 git clone <your-repo-url>
 cd weather-etl-project
+
 2. Install dependencies:
-```bash
+bash
 pip install -r requirements.txt
 3. Add your OpenWeatherMap API key in config.py.
 
 ## Usage
-```bash
+bash
 python main.py
+
 This will fetch weather data, clean it, and save it to weather_data.csv.
 
 ## Demo in Jupyter Notebook
